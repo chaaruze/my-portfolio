@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/chaaruze/my-portfolio/static/css/main.221660a5.css",
+    "main.js": "/chaaruze/my-portfolio/static/js/main.15b4eb34.js",
+    "static/js/453.acca0757.chunk.js": "/chaaruze/my-portfolio/static/js/453.acca0757.chunk.js",
+    "static/media/home.png": "/chaaruze/my-portfolio/static/media/home.9d763ffd271e954989a4.png",
+    "static/media/project-1.png": "/chaaruze/my-portfolio/static/media/project-1.fd0bb0695214a4eb72fb.png",
+    "static/media/about-me.png": "/chaaruze/my-portfolio/static/media/about-me.524bfa19213ac649fab7.png",
+    "static/media/project-1 (3).png": "/chaaruze/my-portfolio/static/media/project-1 (3).a81859aace83c0fdbd42.png",
+    "static/media/project-1 (2).png": "/chaaruze/my-portfolio/static/media/project-1 (2).cd432c3f4bbcc6463a34.png",
+    "static/media/react-logo.png": "/chaaruze/my-portfolio/static/media/react-logo.81ed438b18e24116794d.png",
+    "static/media/xampp-logo.png": "/chaaruze/my-portfolio/static/media/xampp-logo.3ba3c776a349b4a46799.png",
+    "static/media/php-logo.png": "/chaaruze/my-portfolio/static/media/php-logo.c7742bff07d2eac9c690.png",
+    "static/media/js-logo.png": "/chaaruze/my-portfolio/static/media/js-logo.cf7522f436d6510da302.png",
+    "static/media/css-logo.png": "/chaaruze/my-portfolio/static/media/css-logo.df68a4a318ee8b3a85d9.png",
+    "index.html": "/chaaruze/my-portfolio/index.html",
+    "main.221660a5.css.map": "/chaaruze/my-portfolio/static/css/main.221660a5.css.map",
+    "main.15b4eb34.js.map": "/chaaruze/my-portfolio/static/js/main.15b4eb34.js.map",
+    "453.acca0757.chunk.js.map": "/chaaruze/my-portfolio/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.221660a5.css",
+    "static/js/main.15b4eb34.js"
+  ]
+}
